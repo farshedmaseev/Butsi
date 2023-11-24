@@ -1,0 +1,76 @@
+body{
+	background: url(bacg.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+.buts{
+	background-color: white;
+	text-align: cente;r;
+	width: 60%;
+	height: 700px;
+	margin-left: auto;
+	margin-right:  auto;
+	margin-top: 130px;
+	border-radius: 60px;
+	display: flex;
+	padding: 20px;
+}
+div{
+	width: 80%;
+	height: 700px; 
+
+}
+img{
+	margin-top: 110px; 
+}
+.size{
+	color: blue;
+	text-transform: uppercase;
+	margin-top: 50px;
+	text-align: left;
+	margin-left: 50px;
+}
+.aaa{
+	margin-left: 50px;
+}
+a{
+	border: 2px  solid   blue;
+	padding: 15px;
+	text-align: left;
+	list-style: none;
+	margin-right: 5px;
+	
+}
+.man{
+	text-align: left;
+}
+h2{
+	text-transform: uppercase;
+	color: blue;
+	margin-top: 110px;
+}
+
+h1{
+	color: black;
+	text-transform: uppercase;
+}
+.you{
+	text-transform: uppercase;
+	color: blue;
+}
+p{
+	word-spacing: 10px;
+}
+input{
+	border-radius: 10px;
+	background-color: blue;
+	color: white;
+	text-transform: uppercase;
+	width: 90%;
+	height:50px;
+}
+
+
+
+
